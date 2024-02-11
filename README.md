@@ -1,3 +1,6 @@
+![image](https://github.com/mominkhan78/mominkhan78/assets/159716275/722f58fc-95b8-4fe5-9a1d-ad480ed30684)
+
+
 <h1 align="center">Hi 👋, I'm Momin Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
